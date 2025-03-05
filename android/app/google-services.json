@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "733778596435",
+    "project_id": "mxdoc-9e5f9",
+    "storage_bucket": "mxdoc-9e5f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733778596435:android:8897e94593955f5cb5aca6",
+        "android_client_info": {
+          "package_name": "com.mxdoc.doctor.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnIqAhf388ky3iIf8nMBMJGNbWbK0fJkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733778596435:android:1270c606244a7497b5aca6",
+        "android_client_info": {
+          "package_name": "com.mxdoc.patient.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnIqAhf388ky3iIf8nMBMJGNbWbK0fJkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
